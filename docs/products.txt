@@ -1,0 +1,34 @@
+All tables
+
+Mother table - 
+Products
+links
+brand
+name
+price
+
+child tables:
+
+socket
+type- Need to import
+
+wattage
+watts - Need to import
+
+storage
+type - ssd/hdd/sshd
+size - Need to Import
+
+keyboard
+is_mechanical - Yes/No
+
+categories:
+1. Processors
+2. RAM
+3. Motherboard
+4. GPU
+5. Power Supply
+6. Storage
+7. Keyboard
+8. Mouse
+9. Speakers
